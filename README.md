@@ -1,3 +1,5 @@
+Responsive design ensures a seamless experience on any device.
+
 ![1](https://github.com/user-attachments/assets/1fcce361-ff6d-494d-9d9d-12d4e8b5e419)
 ![2](https://github.com/user-attachments/assets/05a1e6c4-f151-4af9-b6be-786127b943ee)
 ![4](https://github.com/user-attachments/assets/c5c16a3b-5a99-4f76-88cf-b89a7ad52703)
